@@ -10,7 +10,7 @@ class Login extends StatefulWidget {
 class _LoginState extends State<Login> {
   @override
   void initState() {
-    print('메인이 만듬');
+    print('머지 시킴');
     super.initState();
   }
 

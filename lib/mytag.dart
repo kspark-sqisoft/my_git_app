@@ -9,6 +9,12 @@ class MyTag extends StatefulWidget {
 
 class _MyTagState extends State<MyTag> {
   @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Container();
   }

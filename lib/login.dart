@@ -11,6 +11,7 @@ class _LoginState extends State<Login> {
   @override
   void initState() {
     print('머지 시킴');
+    print('기능 개발');
     super.initState();
   }
 

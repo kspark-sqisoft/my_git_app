@@ -9,6 +9,12 @@ class Login extends StatefulWidget {
 
 class _LoginState extends State<Login> {
   @override
+  void initState() {
+    print('디벨로퍼 만듬');
+    super.initState();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Container();
   }

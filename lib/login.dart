@@ -12,6 +12,7 @@ class _LoginState extends State<Login> {
   void initState() {
     print('머지 시킴');
     print('기능 개발');
+    print('메인에서 기능 추가');
     super.initState();
   }
 
